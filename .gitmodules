@@ -1,0 +1,3 @@
+[submodule "share/deck.js"]
+	path = share/deck.js
+	url = git://github.com/imakewebthings/deck.js.git
